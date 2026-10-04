@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -g -std=gnu99
 TARGET = shellforge
-SRC = main.c
+SRC = src/main.c
 
 all: $(TARGET)
 
