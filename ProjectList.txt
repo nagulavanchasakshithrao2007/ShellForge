@@ -1,8 +1,0 @@
-SHELL PROJECT
-
-Week 1 - Basic Shell
-Week 2 - Process Management
-Week 3 - System Calls
-Week 4 - Pipes
-Week 5 - Redirection
-Week 6 - Shell Features
